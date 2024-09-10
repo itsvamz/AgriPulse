@@ -11,4 +11,9 @@
     Festival
     Yield of crop
 
+
 #### We have also incorporated the use of ML Agents (Price Regulating Agent, Market Sentiment Agent, Supply Chain Agent) to aide in decision making process of buffer-stock management
+#### Key Findings:
+![im2](https://github.com/user-attachments/assets/fdeb6acb-d80a-47c3-8b9d-a1aff97bf909)
+
+![im1](https://github.com/user-attachments/assets/b445d1fd-5946-486e-86fb-208239a079c2)
